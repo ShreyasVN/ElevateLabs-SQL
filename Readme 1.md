@@ -171,9 +171,3 @@ To replicate this advanced E-commerce database setup:
     * The SQL code for schema creation and advanced features.
     * The generated EER diagram image (`Task 1 eer.png`).
     * This `README.md` file comprehensively explaining the work done and answering theoretical questions.
-
----
-
-**Thank you for reviewing my submission for Task 1!**
-
-[cite_start]**Submit Here:** [Submission Link 1](http://googleusercontent.com/...) [cite: 1]
